@@ -1,0 +1,18 @@
+#subhead {
+  text-align: center;
+  margin: 0 20px;
+}
+
+/*#nz-images {
+  background-color: transparent;
+}*/
+.carousel-control.left, .carousel-control.right {
+    background-image: none;
+}
+
+
+
+#nz-images {
+  margin-left: 10%;
+  margin-right: 10%;
+}
